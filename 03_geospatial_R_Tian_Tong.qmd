@@ -1,6 +1,6 @@
 ---
 title: "Geospatial data in R"
-Aruthor: Tian
+Arthor: Tian
 format: html
 editor: visual
 execute: 
